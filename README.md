@@ -4,3 +4,12 @@ The BigQuery table is saved as csv. SQL queries for viewtable are saved as sql s
 The purpose of this project is to analyze credit applicant risk potential in relation to their their existing facilities in other companies.
 
 ## The Dashboard
+The dashboard can be accessed in the following [link](https://lookerstudio.google.com/s/r6A2nv2dxoo).
+The dashboard contains 2 pages:
+1. **Readme**
+   This section explains about categorical categories used in the dashboard.
+2. **SLIK Analysis and Visualization**
+   Divided into 3 sections:
+   a. SLIK Behavior: Visualization of loan collectability, delinquency, and security.
+   b. Demography: Describe the data by demographic factors such as age, marital status, education, etc.
+   c. Scorecard: Evaluation of SLIK exposure and installment.
