@@ -8,8 +8,8 @@ The dashboard can be accessed in the following [link](https://lookerstudio.googl
 The dashboard contains 2 pages:
 1. **Readme**
    This section explains about categorical categories used in the dashboard.
-2. **SLIK Analysis and Visualization**
+2. **SLIK Analysis and Visualization**\
    Divided into 3 sections:
-   a. SLIK Behavior: Visualization of loan collectability, delinquency, and security.
-   b. Demography: Describe the data by demographic factors such as age, marital status, education, etc.
-   c. Scorecard: Evaluation of SLIK exposure and installment.
+   + SLIK Behavior   : Visualization of loan collectability, delinquency, and security.
+   + Demography      : Describe the data by demographic factors such as age, marital status, education, etc.
+   + Scorecard       : Evaluation of SLIK exposure and installment.
